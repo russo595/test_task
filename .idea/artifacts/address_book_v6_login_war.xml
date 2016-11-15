@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="address-book-v6-login:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="address-book-v6-login-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="address-book-v6-login:war exploded" />
+    </root>
+  </artifact>
+</component>
